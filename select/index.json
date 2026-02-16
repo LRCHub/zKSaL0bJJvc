@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Secondhand",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-02-16T19:38:47.768512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secondhand Love",
+      "artist": "Pete Townshend",
+      "has_synced": true,
+      "path": "select/01_Secondhand_Love_Pete_Townshend.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White City - 05 - Secondhand Love",
+      "artist": "Pete Townshend",
+      "has_synced": true,
+      "path": "select/02_White_City_-_05_-_Secondhand_Love_Pete_Townshend.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Secondhand Love",
+      "artist": "Jen Foster",
+      "has_synced": false,
+      "path": "select/03_Secondhand_Love_Jen_Foster.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Secondhand",
+      "artist": "Cassadee Pope",
+      "has_synced": true,
+      "path": "select/04_Secondhand_Cassadee_Pope.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Capgras Encounters a Secondhand Vanity: Tulpamancer's Prosopagnosia / Pareidolia (As Direct Result of Trauma to Fusiform Gyrus)",
+      "artist": "Will Wood and the Tapeworms",
+      "has_synced": true,
+      "path": "select/05_Mr._Capgras_Encounters_a_Secondhand_Vanity__Tulpamancer's_Prosopagnosia___Pareid_Will_Wood_and_the_Tapeworms.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Capgras Encounters a Secondhand Vanity: Tulpamancer's Prosopagnosia/Pareidolia (As Direct Result of Trauma to the Fusiform Gyrus)",
+      "artist": "Will Wood and the Tapeworms",
+      "has_synced": true,
+      "path": "select/06_Mr._Capgras_Encounters_a_Secondhand_Vanity__Tulpamancer's_Prosopagnosia_Pareidol_Will_Wood_and_the_Tapeworms.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Capgras Encounters a Secondhand Vanity: Tulpamancer\\'s Prosopagnosia / Pareidolia (As Direct Result of Trauma to Fusiform Gyrus",
+      "artist": "Will Wood and the Tapeworms",
+      "has_synced": true,
+      "path": "select/07_Mr._Capgras_Encounters_a_Secondhand_Vanity__Tulpamancer_'s_Prosopagnosia___Parei_Will_Wood_and_the_Tapeworms.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Secondhand Superstar",
+      "artist": "CIV",
+      "has_synced": false,
+      "path": "select/08_Secondhand_Superstar_CIV.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Secondhand Superstar - Demo",
+      "artist": "CIV",
+      "has_synced": false,
+      "path": "select/09_Secondhand_Superstar_-_Demo_CIV.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Secondhand Superstar (demo)",
+      "artist": "CIV",
+      "has_synced": false,
+      "path": "select/10_Secondhand_Superstar_(demo)_CIV.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Secondhand Smoke",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/11_Secondhand_Smoke_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Secondhand Smoke",
+      "artist": "Brynn Cartelli",
+      "has_synced": true,
+      "path": "select/12_Secondhand_Smoke_Brynn_Cartelli.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Secondhand Happiness",
+      "artist": "Sam Fischer",
+      "has_synced": true,
+      "path": "select/13_Secondhand_Happiness_Sam_Fischer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Secondhand Lions",
+      "artist": "Foxblood",
+      "has_synced": true,
+      "path": "select/14_Secondhand_Lions_Foxblood.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Secondhand Smoker",
+      "artist": "Moistboyz",
+      "has_synced": true,
+      "path": "select/15_Secondhand_Smoker_Moistboyz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mr. Capgras Encounters a Secondhand Vanity: Tulpamancer's Prosopagnosia / Pareidolia (As Direct Result of Trauma to the Fusiform Gyrus)",
+      "artist": "Will Wood and the Tapeworms",
+      "has_synced": true,
+      "path": "select/16_Mr._Capgras_Encounters_a_Secondhand_Vanity__Tulpamancer's_Prosopagnosia___Pareid_Will_Wood_and_the_Tapeworms.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Secondhand Surgery",
+      "artist": "Hopesfall",
+      "has_synced": false,
+      "path": "select/17_Secondhand_Surgery_Hopesfall.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Secondhand",
+      "artist": "Just Nick",
+      "has_synced": false,
+      "path": "select/18_Secondhand_Just_Nick.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Secondhand (feat. Rema)",
+      "artist": "Don Toliver, Rema",
+      "has_synced": false,
+      "path": "select/pl_01_Secondhand_(feat._Rema)_Don_Toliver,_Rema.txt"
+    }
+  ]
+}
